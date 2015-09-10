@@ -1,0 +1,5 @@
+#inlcude <stdio.h>
+int main(void){
+	printf("Hello git!");
+	return 0;
+}
